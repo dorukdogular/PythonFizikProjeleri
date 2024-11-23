@@ -1,1 +1,2 @@
 # PythonFizikProjeleri
+bu proje pythonda fizik hakkinda bazi seyleri modellemenizi deniyemlemenizi veya duzenleme yaparak katkida bulunmanizi saglar lisansizdir istersen forklayabilirsin yani sira duzenleyip kopya olusturabilirsiniz ama bunu yaparken lutfen benimle dorukdogular@hotmail.com mail adresi uzerinden iletisime gecin ve proje katilimci olarak eklerseniz sevinirim(paylastiginiz yerde) simdilik benden bu kadar iyi gunler.
